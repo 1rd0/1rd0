@@ -8,7 +8,7 @@
 
  
 
-<div size='20px'> Hi! Hi! My name is Dima, I am interested in backend development and neural network technologies. I study algorithms with interest, I work with Python and C# :smile: 
+<div size='20px'> Hi! Hi! My name is Dima, I am interested in backend development and neural network technologies. I study algorithms,and work with Python and C# :smile: 
 </div>
 
 <h2> About Me  </h2>
@@ -18,12 +18,8 @@
 - 🔭 I’m currently study in MosPolytech
   
 - 🌱 I’m currently learning Go, C# and Python
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+ 
+- ⚡ Fun fact: I am a beekeeper 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
