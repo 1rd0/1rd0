@@ -8,16 +8,15 @@
 
  
 
-<div size='20px'> Hi! Hi! My name is Dima, I am interested in backend development and neural network technologies. I study algorithms,and work with Python and C# :smile: 
-</div>
+ 
 
-<h2> About Me  </h2>
+ 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently study in MosPolytech
   
-- 🌱 I’m currently learning Go, C# and Python
+- 🌱 I’m currently learning Go 
  
 - ⚡ Fun fact: I am a beekeeper 
 
